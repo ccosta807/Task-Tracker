@@ -15,4 +15,4 @@ Run `npm run server` to run the mock REST API.  Navigate to `http://localhost:50
 This is a web application to track and set reminders for tasks.  The tasks contain a description, day, time, and boolean reminder value.  A user can add and delete tasks on the 
 web page.  This application was developed using Angular and contains a mock db JSON server.
 
-This project exposed me to global css styles, looping with ngFor, ngModel, header/button components, routing, and Angulars HTTP client.
+This project includes topics like global css styles, looping with ngFor, ngModel, header/button components, routing, and Angular's HTTP client.
